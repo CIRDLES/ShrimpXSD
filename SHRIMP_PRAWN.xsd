@@ -367,6 +367,7 @@
             <xs:enumeration value="autocentering_detector"/>
             <!-- Description-->
             <xs:enumeration value="196Zr2O"/>
+            <xs:enumeration value="CaTi2O4"/>
             <xs:enumeration value="204Pb"/>
             <xs:enumeration value="Bkgnd"/>
             <xs:enumeration value="206Pb"/>
